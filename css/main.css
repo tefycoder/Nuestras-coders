@@ -33,9 +33,7 @@ h2{
 
 .imagenes:hover{
     background-color: #FA8072;
-    transition: all 0.5s ease;
-    padding: 10px;
-    border-radius: 5px;
+   
     
 }
 
