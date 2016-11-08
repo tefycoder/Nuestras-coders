@@ -1,0 +1,56 @@
+
+body{
+    background-color: #DB7093;
+}
+
+h2{
+    font-size:250% ;
+}
+
+.bloque{
+	width: 740px;
+	height: 530px;
+	margin: auto;
+	position: relative;
+    display: block;
+    
+}
+h2{
+    margin-left: 420px;
+   
+}
+
+
+.imagenes{
+	display: inline-block;
+    width:210px; 
+	height:210px;
+	margin: 10px;
+	position: relative;
+    background: #000000;
+   
+}
+
+.imagenes:hover{
+    background-color: #FA8072;
+    transition: all 0.5s ease;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+
+hr{
+    width: 100px;
+	border: 2px solid black;
+	margin-left: 420px;
+    
+}
+
+
+.nombres{
+    position: relative;
+    bottom: 30px;
+    left: 85px;
+    color: #ffffff;
+}
